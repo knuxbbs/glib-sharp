@@ -25,7 +25,6 @@
 namespace GLib {
 
 	using System;
-	using System.Collections.Generic;
 	using System.Runtime.InteropServices;
 
 	public delegate bool TimeoutHandler ();

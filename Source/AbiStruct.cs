@@ -26,11 +26,7 @@ namespace GLib {
 
 	using System;
 	using System.Collections.Generic;
-	using System.Reflection;
-	using System.Runtime.InteropServices;
-	using System.Linq;
 	using System.Collections.Specialized;
-	using System.CodeDom.Compiler;
 
 	public class AbiStruct {
 		public OrderedDictionary Fields = null;

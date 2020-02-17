@@ -21,8 +21,6 @@
 namespace GLib {
 
 	using System;
-	using System.Collections;
-	using System.Collections.Generic;
 	using System.Runtime.InteropServices;
 
 	public partial class Bytes : GLib.Opaque, IComparable<Bytes>, IEquatable<Bytes>

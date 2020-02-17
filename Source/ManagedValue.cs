@@ -22,8 +22,7 @@
 namespace GLib {
 	using System;
 	using System.Runtime.InteropServices;
-	using GLib;
-	
+
 	internal class ManagedValue {
 
 		GCHandle gch;
