@@ -1,0 +1,3 @@
+[submodule "Tools/gapi"]
+	path = Tools/gapi
+	url = https://github.com/glib-sharp/gapi
