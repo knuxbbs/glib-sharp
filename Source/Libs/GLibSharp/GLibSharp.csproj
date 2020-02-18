@@ -9,7 +9,7 @@
     <PackageTags>glib;glibsharp;glib-sharp;wrapper</PackageTags>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="..\Tools\gapi\FuncLoader\*.cs">
+    <Compile Include="..\..\Tools\gapi\FuncLoader\*.cs">
       <Link>%(RecursiveDir)%(Filename)%(Extension)</Link>
     </Compile>
   </ItemGroup>
